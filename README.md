@@ -68,11 +68,13 @@ Final-year BSc Computer Science and Engineering student at American Internationa
 
 ## Tools
 
-<img src="https://img.shields.io/badge/Python-F6F8FA?style=flat-square&logo=python&logoColor=1F3A5F" alt="Python">
-<img src="https://img.shields.io/badge/PyTorch-F6F8FA?style=flat-square&logo=pytorch&logoColor=1F3A5F" alt="PyTorch">
-<img src="https://img.shields.io/badge/Jupyter-F6F8FA?style=flat-square&logo=jupyter&logoColor=1F3A5F" alt="Jupyter">
-<img src="https://img.shields.io/badge/DVC-F6F8FA?style=flat-square&logo=dvc&logoColor=1F3A5F" alt="DVC">
-<img src="https://img.shields.io/badge/Git-F6F8FA?style=flat-square&logo=git&logoColor=1F3A5F" alt="Git">
-<img src="https://img.shields.io/badge/TypeScript-F6F8FA?style=flat-square&logo=typescript&logoColor=1F3A5F" alt="TypeScript">
-<img src="https://img.shields.io/badge/Next.js-F6F8FA?style=flat-square&logo=nextdotjs&logoColor=1F3A5F" alt="Next.js">
-<img src="https://img.shields.io/badge/MongoDB-F6F8FA?style=flat-square&logo=mongodb&logoColor=1F3A5F" alt="MongoDB">
+<p>
+  <img src="https://img.shields.io/badge/Python-F6F8FA?style=flat-square&logo=python&logoColor=1F3A5F" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-F6F8FA?style=flat-square&logo=pytorch&logoColor=1F3A5F" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Jupyter-F6F8FA?style=flat-square&logo=jupyter&logoColor=1F3A5F" alt="Jupyter">
+  <img src="https://img.shields.io/badge/DVC-F6F8FA?style=flat-square&logo=dvc&logoColor=1F3A5F" alt="DVC">
+  <img src="https://img.shields.io/badge/Git-F6F8FA?style=flat-square&logo=git&logoColor=1F3A5F" alt="Git">
+  <img src="https://img.shields.io/badge/TypeScript-F6F8FA?style=flat-square&logo=typescript&logoColor=1F3A5F" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-F6F8FA?style=flat-square&logo=nextdotjs&logoColor=1F3A5F" alt="Next.js">
+  <img src="https://img.shields.io/badge/MongoDB-F6F8FA?style=flat-square&logo=mongodb&logoColor=1F3A5F" alt="MongoDB">
+</p>
